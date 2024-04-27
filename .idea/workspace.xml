@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a6ac6b-c601-4db3-a616-4f947fe1ca6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714216011405</updated>
-      <workItem from="1714216012411" duration="70000" />
+      <workItem from="1714216012411" duration="145000" />
     </task>
     <servers />
   </component>
