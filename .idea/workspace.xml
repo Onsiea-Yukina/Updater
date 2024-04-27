@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a6ac6b-c601-4db3-a616-4f947fe1ca6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/download/DownloadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/download/DownloadManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/download/DownloadSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/download/DownloadedSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/installer/Installer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/utils/APIUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2fgHt0xNyGWrfQHhN0WjvPNRZpj" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -49,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature/installer",
+    "git-widget-placeholder": "refactor/data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714216011405</updated>
-      <workItem from="1714216012411" duration="2355000" />
+      <workItem from="1714216012411" duration="2775000" />
+      <workItem from="1714221722855" duration="1002000" />
     </task>
     <servers />
   </component>
