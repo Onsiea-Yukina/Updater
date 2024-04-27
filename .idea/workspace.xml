@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a6ac6b-c601-4db3-a616-4f947fe1ca6b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/data/version/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/yukina/updater/data/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "refactor/data",
+    "git-widget-placeholder": "fix/data",
+    "last_opened_file_path": "P:/Yukina/Updater",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +52,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\Yukina\Updater" />
+      <recent name="P:\Yukina\Updater\src\main\java\fr\yukina\updater\data\version" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="fr.yukina.updater.data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.yukina.updater.data.version" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Updater" />
@@ -74,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714216011405</updated>
       <workItem from="1714216012411" duration="2775000" />
-      <workItem from="1714221722855" duration="1002000" />
+      <workItem from="1714221722855" duration="1510000" />
     </task>
     <servers />
   </component>
