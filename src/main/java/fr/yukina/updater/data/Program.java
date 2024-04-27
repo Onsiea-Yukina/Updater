@@ -1,4 +1,4 @@
-package fr.yukina.updater.data.version;
+package fr.yukina.updater.data;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
